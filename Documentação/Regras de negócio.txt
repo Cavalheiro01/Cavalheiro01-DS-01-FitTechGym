@@ -1,1 +1,1 @@
-Aqui ficará as regras de negócio do sistema
+Aqui ficará as regras de negócio do sistema.
